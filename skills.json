@@ -1,0 +1,58 @@
+[
+    {
+        "name": "React JS",
+        "icon": "assets/images/skills/react.jpeg"
+    },
+    {
+        "name": "HTML5",
+        "icon": "assets/images/skills/HTML5.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "assets/images/skills/css.jpeg"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "assets/images/skills/javac.jpeg"
+    },
+    {
+        "name": "Wix",
+        "icon": "assets/images/skills/wix.jpeg"
+    },
+    {
+        "name": "UI/UX",
+        "icon": "assets/images/skills/uiux.jpeg"
+    },
+    {
+        "name": "VS Code",
+        "icon": "assets/images/skills/vs.jpeg"
+    },
+    {
+        "name": "Material UI",
+        "icon": "assets/images/skills/mui.jpeg"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "assets/images/skills/boot.jpeg"
+    },
+    {
+        "name": "WordPress",
+        "icon": "assets/images/skills/word.jpeg"
+    },
+    {
+        "name": "Redux",
+        "icon": "assets/images/skills/redux.jpeg"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "assets/images/skills/node.jpeg"
+    },
+    {
+        "name": "Android",
+        "icon": "assets/images/skills/and.jpeg"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "assets/images/skills/mongo.jpeg"
+    }
+]
