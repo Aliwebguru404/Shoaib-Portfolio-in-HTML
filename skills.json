@@ -4,6 +4,10 @@
         "icon": "assets/images/skills/react.jpeg"
     },
     {
+        "name": "React Native",
+        "icon": "assets/images/skills/native.jpg"
+    },
+    {
         "name": "HTML5",
         "icon": "assets/images/skills/HTML5.png"
     },
@@ -16,8 +20,8 @@
         "icon": "assets/images/skills/javac.jpeg"
     },
     {
-        "name": "Wix",
-        "icon": "assets/images/skills/wix.jpeg"
+        "name": "Typescript",
+        "icon": "assets/images/skills/type.png"
     },
     {
         "name": "UI/UX",
@@ -50,9 +54,5 @@
     {
         "name": "Android",
         "icon": "assets/images/skills/and.jpeg"
-    },
-    {
-        "name": "MongoDB",
-        "icon": "assets/images/skills/mongo.jpeg"
     }
 ]
